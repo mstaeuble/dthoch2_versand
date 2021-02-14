@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="BIV4^B%4@}{tD0?639FF" x="20" y="20"/><block type="device_forever" id="V:%wJ=^Y)CEu+.R!RU4t" x="225" y="20"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="V:%wJ=^Y)CEu+.R!RU4t" x="205" y="0"><statement name="HANDLER"><block type="device_print_message" id=";s+ZHC:tr=7TBcBW2Wk#"><value name="text"><shadow type="text" id="s$-DZPFPz]y2I5YCvl1S"><field name="TEXT">Willkommen bei DThoch2!</field></shadow></value></block></statement></block></xml>
